@@ -1,4 +1,4 @@
-# Sample Donation Prject
+# Sample Donation Project
 A Simple Smart Contract in Solidity, and how it interacts with a frontend.
 
 ## Description
